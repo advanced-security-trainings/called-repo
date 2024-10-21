@@ -1,0 +1,3 @@
+comment-summary-in-pr: true
+fail_on_severity: low
+vulnerability-check: true
